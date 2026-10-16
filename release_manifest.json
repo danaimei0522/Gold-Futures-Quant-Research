@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "scope": "Independently written methods and platform-neutral pseudocode; original strategy excluded",
+  "files": {
+    ".gitignore": "ba0a77ef5f93e85b5bba2eabd1e1020079e1ae88af93c578aa15d61574d26b2b",
+    "CODE_ONLY_RELEASE_AUDIT.md": "b585c7bdea1d313938384b692a959004d865189ca5e1fcda0162e27047340d02",
+    "CODE_PROVENANCE.md": "cd944fd31dfbba86bed5a3e1aeaaa91a6ae5aba881149612e4bf4b1bce91df54",
+    "DATA_REQUIREMENTS.md": "16306134f04555148914b4435348e10ed0b1674ad6857a35c6ff3b90354e3659",
+    "METHODS.md": "a28d3972a1d69472482b5bd15fa20fde4e2b1735b3439acd3c0c6e0fcb997417",
+    "README.md": "1905b2388dd9a21c6c76b366f290a68a9568baca533d0fa8ee57d82405808419",
+    "REPRODUCING.md": "7223ea2cd761120934176254c46da0cdd61f07a5d0fb05679e96de34a99ef260",
+    "STATIC_CHECKS.md": "9ac68f36d730935a94eed7b9808a63cb1d738d342529bb658d2c5594e335c89b",
+    "STRATEGY_PSEUDOCODE.md": "29475f6441c907df67bf3bea49b2a5b4d6095a473e0ab669abdc33d5d8e9899c",
+    "THIRD_PARTY_NOTICES.md": "7e108466e8e75be4b6732c49d1e7755e489f62c5bc85ae3f79e69baf6191e2f7",
+    "scripts/verify_release.py": "8ed590b74ab8d9cc13bfa3701a86b9760e1de4d3198ce9b73a271dbcab6950d5"
+  }
+}

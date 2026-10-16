@@ -1,0 +1,16 @@
+# Default deny: only the reviewed public payload may be tracked
+*
+!.gitignore
+!README.md
+!METHODS.md
+!STRATEGY_PSEUDOCODE.md
+!DATA_REQUIREMENTS.md
+!REPRODUCING.md
+!CODE_PROVENANCE.md
+!THIRD_PARTY_NOTICES.md
+!CODE_ONLY_RELEASE_AUDIT.md
+!STATIC_CHECKS.md
+!release_manifest.json
+!scripts/
+scripts/*
+!scripts/verify_release.py
